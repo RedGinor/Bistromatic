@@ -1,0 +1,2 @@
+# Bistromatic
+Infinite numbers calculator
